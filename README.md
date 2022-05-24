@@ -1,4 +1,4 @@
-# Default Predictive Classification for US Companies
+# Loan Default Prediction
 The goal of the analysis is to predict whether or not a loan should be approved based on a dataset provided by the U.S. Small Business Administration (SBA), available on [Kaggle](https://www.kaggle.com/mirbektoktogaraev/should-this-loan-be-approved-or-denied).\
 In order to do so default predictive classification models are estimated to understand which variables are most likely to influence this process, using logistic regression, decision trees, random forest and gradient boosting.\
 Final model: Gradient Boosting with 0.93 test accuracy, 0.93 test sensitivity.\
